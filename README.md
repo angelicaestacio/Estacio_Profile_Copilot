@@ -1,2 +1,22 @@
-# Estacio_Profile_Copilot
-Welcome to my professional portfolio! This site showcases my journey as a Computer Science student, entrepreneur, and creator of Angel’s Crafty. Designed with creativity and precision, it highlights my skills, projects, and experiences. Microsoft Copilot, an AI tool, assisted me in building and refining this website.
+<<<<<<< HEAD
+# Personal Profile Website
+
+This project is a personal profile website created using HTML and CSS.
+
+## Features
+- Personal Information
+- Skills Section
+- Contact Information
+
+## Tools Used
+- ChatGPT (AI Tool)
+- HTML
+- CSS
+- Git
+- GitHub
+
+## Author
+Angelica R. Estacio
+=======
+# angelica-profile
+>>>>>>> c77d0ae4bc379fdd1aa1daaedc3f785d5f146cec
